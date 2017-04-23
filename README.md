@@ -3,7 +3,7 @@
 ## Objetivo
 Este repositório tem o objetivo de integrar seu site no Wordpress com o [PagSeguro](https://pagseguro.uol.com.br/), para que sejam feitos pagamentos na plataforma deles e, ao mesmo tempo, seja possível que o comprador verifique seu status de pagamento.
 
-O ponto diferencial deste projeto é a simplicidade e o passo a passo. Existem alguns repositórios sobre o tema, inclusive o oficial, que falam sobre o tema, mas são muito desorganizados, fazendo com que quem está iniciando não entenda como fazer o processo. Digo isso por experiência própria.
+O ponto diferencial deste projeto é a simplicidade e o passo a passo. Existem alguns repositórios sobre o tema, inclusive o oficial, que fala sobre o tema, mas são muito desorganizados, fazendo com que quem está iniciando não entenda como fazer o processo. Digo isso por experiência própria.
 
 ## Progresso
 O desenvolvimento deste projeto será feito através de PHP, principalmente, que será usado para acessar a API do [PagSeguro](https://pagseguro.uol.com.br/). Será exibido o status de pagamento ao usuário após o fornecimento do código de pagamento que o comprador recebe por e-mail ao finalizar a compra:
