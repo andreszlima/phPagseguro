@@ -1,6 +1,4 @@
-﻿# phPagseguro
-
-# Integração Pagseguro - Wordpress
+﻿# Integração Pagseguro - Wordpress
 
 ## Objetivo
 Este repositório tem o objetivo de integrar seu site no Wordpress com o [PagSeguro](https://pagseguro.uol.com.br/), para que sejam feitos pagamentos na plataforma deles e, ao mesmo tempo, seja possível que o comprador verifique seu status de pagamento.
